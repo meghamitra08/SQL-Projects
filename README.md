@@ -22,3 +22,16 @@ Product Performance: Determined the most ordered products and analyzed sales for
 Order Analysis: Retrieved the largest orders and tracked total quantities sold per product.
 Behavioral Patterns: Highlighted customers purchasing specific products and tracked recurring buyers.
 Data Integrity: Ensured consistent data by enforcing constraints and performing updates where required.
+
+# Customer Purchase & Delivery Analysis:
+
+Key Objective:
+To analyze customer behavior, purchasing patterns, and delivery performance for better decision-making, customer retention, and operational efficiency.
+
+Key Factor Analysis:
+Customer Retention: Identifies inactive customers (≥60 days) for targeted re-engagement.
+Purchase Frequency: Measures average time between orders to assess customer loyalty.
+High-Value Customers: Ranks top 10% spenders and calculates their Average Order Value (AOV).
+Delivery Efficiency: Evaluates on-time delivery percentage per region to improve logistics.
+Business Impact:
+Enhances customer retention, optimizes marketing efforts, boosts revenue, and improves operational efficiency.
