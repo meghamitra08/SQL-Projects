@@ -23,6 +23,10 @@ Order Analysis: Retrieved the largest orders and tracked total quantities sold p
 Behavioral Patterns: Highlighted customers purchasing specific products and tracked recurring buyers.
 Data Integrity: Ensured consistent data by enforcing constraints and performing updates where required.
 
+# Electronic gadgets sales Analysis:
+
+This project demonstrates the creation and management of an SQL database for an e-commerce platform that sells electronic gadgets. The primary goal of the project is to design and implement a database that tracks customers, products, orders, and order items in an efficient and normalized way, providing essential functionalities for managing an electronic gadget store.
+
 # Customer Purchase & Delivery Analysis:
 
 Key Objective:
